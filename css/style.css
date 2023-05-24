@@ -34,15 +34,15 @@ body {
 }
 
 .conteinerh {
-    margin-left: 2%;
-    width: 48%;
+    width: 50%;
     height: 50px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .entrar {
-    width: 50%;
+    margin-right: 2%;
+    width: 48%;
     height: 50px;
     display: flex;
     justify-content: end;
